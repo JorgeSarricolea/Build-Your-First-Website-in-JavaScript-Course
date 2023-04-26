@@ -42,7 +42,7 @@ Here you will write who you are, what you do and what you like.
 - Other (Optional).
 
 #### Services page (Optional)
-This section is optional, in case you want to show any of your projects that you have done, we can add them in this section, it is not mandatory. Example: [jorgesarricolea.com/services](https://jorgesarricolea.com/services)
+This section is optional, in case you want to show any of your services that you have done, we can add them in this section, it is not mandatory. Example: [jorgesarricolea.com/services](https://jorgesarricolea.com/services)
 
 #### Portfolio page (Optional)
 This section is optional, in case you want to show any of your projects that you have done, we can add them in this section, it is not mandatory. Example: [jorgesarricolea.com/portfolio](https://jorgesarricolea.com/portfolio)
