@@ -50,7 +50,7 @@ This section is optional, in case you want to show any of your projects that you
 #### Resume page
 This section is like your CV, you will show information about yourself, your professional and academic career, you can base yourself on my website.
 
-- A Button to download ypur CV.
+- A Button to download your CV.
 - Professional Section.
 - Academic Section.
 - Other (Optional).
