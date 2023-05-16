@@ -10,7 +10,7 @@ In this course, I will teach you how to make a webpage from scratch, responsive 
 You can clone this repository locally and start working with it, which is my recommendation, but feel free to create it from scratch on your computer.
 
 ## Stages
-The course is divided into 10 sessions of 2 hours each, a total of 20 hours, here you will see a guide on how this course is divided and how we will progress.
+The course is divided into 6 stages, a total of 20 hours, here you will see a guide on how this course is divided and how we will progress.
 
 ### Stage 1. Responsive Design, Mobile First theory. (4 - 6 hours).
 Web programming is not only knowing how to programming, a web developer must have at least basic knowledge in terms of User Interface (UI) design. Doesn't it happen to you that you are using an app and it is very simple and friendly to use? That's because there was a UI Designer behind that focused on the design of use being the most optimal for its use.
@@ -61,7 +61,7 @@ The user who is on your website can send you an email to get in touch with you.
 - How to make a form which allows the user to fill in their data and be able to send you an email.
 - Validation of data in the form.
 
-### Stage 3. JavaScript Vanilla, Functions and DOM (1 hours).
+### Stage 3. JavaScript Vanilla, Functions and DOM (1 hour).
 In this stage you will remember some of the functions that we will be using to add interactivity throughout the project, take it as a small reminder.
 
 - Friendly reminder of var, const and let.
@@ -78,14 +78,14 @@ We will use the jQuery library for the interactivity of the project, you will le
 - Clean Code an documentation.
 - Personal gift (Surprise in the course).
 
-### Stage 5. How to buy a domain in NameCheap (1 hours).
+### Stage 5. How to buy a domain in NameCheap (1 hour).
 NameCheap is a service which allows you to buy a domain like mine "jorgesarricolea.com" and this be able to have your personal brand in this project and deploy it to live.
 
 - Create an account in [NameCheap](https://www.namecheap.com).
 - How to choose a domain.
 - Buy a domain.
 
-### Stage 6. How to configure DNS in Netfly (1 hours).
+### Stage 6. How to configure DNS in Netfly (1 hour).
 The Domain Name System is a decentralized hierarchical naming system for devices connected to IP networks such as the Internet or a private network. This system associates various information with domain names assigned to each of the participants.
 
 - Create an account in [Netfly](https://app.netlify.com).
